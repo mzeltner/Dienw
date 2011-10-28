@@ -15,7 +15,7 @@ h1 {
 h1 a {
     background: #fff;
     padding: 0 1em;
-    color: #acd; 
+    color: #acd;
 }
 
 h1 a:hover {
@@ -23,8 +23,8 @@ h1 a:hover {
     color: #fff;
 }
 
-h1, h2, h3, h4 { 
-    font-family: Tahoma, "Gill Sans", sans-serif; 
+h1, h2, h3, h4 {
+    font-family: Tahoma, "Gill Sans", sans-serif;
     font-weight: normal;
 }
 
@@ -56,15 +56,15 @@ pre {
     white-space: pre-wrap;
 }
 
-blockquote { 
+blockquote {
     margin: 0;
     background: #fcfcfc;
     border: 1px solid #efefef;
     padding-left: 1em;
 }
 
-blockquote pre { 
-    font-family: Georgia, sans-serif; 
+blockquote pre {
+    font-family: Georgia, sans-serif;
 }
 
 #menu ul {
